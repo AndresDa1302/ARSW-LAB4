@@ -31,3 +31,7 @@ En este ejercicio se va a construír un modelo de clases para la capa lógica de
 	* (B) Filtrado de submuestreo: suprime 1 de cada 2 puntos del plano, de manera intercalada.
 
 5. Agrege las pruebas correspondientes a cada uno de estos filtros, y pruebe su funcionamiento en el programa de prueba, comprobando que sólo cambiando la posición de las anotaciones -sin cambiar nada más-, el programa retorne los planos filtrados de la manera (A) o de la manera (B). 
+
+Integrantes:
+David leonardo Coronado
+Andres Felipe Davila
